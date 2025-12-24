@@ -1,0 +1,4 @@
+python-sat
+numpy
+pillow
+requests
