@@ -1,0 +1,4 @@
+// 单个 clues
+python -m solvers.run clues/apple.clues --approach 2 --solve
+// 文件夹下所有 clues
+python -m solvers.run clues/ --approach 2 --solve
